@@ -4,17 +4,12 @@
  * and open the template in the editor.
  */
 
-package VISTAS;
-
-import NEGOCIO.Loro;
+package dao;
 
 /**
  *
  * @author Papi
  */
-public class Main {
-    public static void main (String[]args){
-        Loro loro = new Loro();
-    }
+public class LoroDAO {
     
 }
