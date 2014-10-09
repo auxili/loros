@@ -6,10 +6,14 @@
 
 package dao;
 
+
 /**
  *
  * @author Papi
  */
 public class LoroDAO {
+
+    public LoroDAO() {
+    }
     
 }

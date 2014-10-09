@@ -3,7 +3,6 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-
 package pojo;
 
 import java.util.List;
@@ -13,11 +12,12 @@ import java.util.List;
  * @author KIke
  */
 public class Loro {
+
     private int id;
     private String name;
     private int size;
     private Colour colour;
-    private List <PruebaCientificaLoro> pruebaCientificaLoro;
+    private List<PruebaCientificaLoro> pruebaCientificaLoro;
 
     public Loro() {
     }
@@ -85,5 +85,5 @@ public class Loro {
         this.colour = colour;
     }
 
+    
 }
-
